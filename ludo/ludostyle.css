@@ -1,0 +1,56 @@
+#p01{
+   display: inline;
+   margin-left: 30%;
+   margin-right: 30%;
+   font-size: 20px;
+}
+#p02{
+    display: inline;
+    font-size: 20px;
+}
+#div1{
+    border: 2px solid black;
+    margin-top: 50px;
+}
+#player_pics{
+    border: 2px solid black;
+    display: flex;
+     margin-top: 10px;
+}
+#player1{
+    margin-left: 20%;
+    margin-right: 20%;
+    border: 2px solid black;
+}
+#player2{
+      border: 2px solid black;
+}
+#score {
+    border: 2px solid black;
+    width: 300px;
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 35%;
+     margin-top: 10px;
+}
+#score1{
+    font-size: 48px;
+    line-height: 1;
+    border: 2px solid black;
+}
+#score2{
+       font-size: 48px;
+    line-height: 1;
+    border: 2px solid black;
+}
+#dice{
+    border: 2px solid black;
+    width: 300px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 530px;
+    margin-top: 10px;
+}
